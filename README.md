@@ -1,13 +1,16 @@
-# Work in progress
+# Getting Started
 
-A component/library for working with the Github API using ColdFusion. 
+Add `octo-fusion.lex` as a lucee extension. Alternatively you can work with the components directly within the `/components` directory.
 
 ```coldFusion
 <cfscript>
-    git = new components.github(organization=true, organizationName="Wanka Chocolates LLC");
-    orgRepos = git.organization.getRepos();
+    gh = new github();
 </cfscript>
 ```
+
+# Contributing
+
+There is a lot to do. Start anywhere.
 
 # Reference
 
