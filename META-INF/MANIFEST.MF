@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+id: "125BD918-E151-4B0E-A7A23AD796BFA5E7"
+version: "1.0.0"
+name: Octo-Fusion
+description: "Library for working with the GitHub rest api in ColdFusion"
+category: REST
+Built-Date: 2022-04-14 12:00:00
+lucee-core-version: "5.0.0.157"
+lucee-loader-version: "5.8"
+release-type: web
